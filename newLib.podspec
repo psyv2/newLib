@@ -16,7 +16,7 @@ This CocoaPods library helps you perform calculation.
   spec.swift_version = "4.2"
 
   spec.source        = { :git => "https://github.com/psyv2/myLib123.git", :tag => "#{spec.version}" }
-  spec.source_files  = "newLib/**/*.{h,m,swift}"
+  spec.source_files  = "myLib123/myLib123/**/*.{h,m,swift}"
 
 end
 
